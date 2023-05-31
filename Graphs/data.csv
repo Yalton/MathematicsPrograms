@@ -1,0 +1,88 @@
+Materials,Rock Mass,Base Instability,Base Resistance,Mining Head,Instability,Resistance,Difficulty,Success,Distribution,,Instability Change,Resistance Change
+"36.11% Beryl, 59.12% Quartz",174,1.87,17%,Helix I,,,Extractable,,,,,
+"46.66% Beryl, 39.79% Corundum",250,2.14,44%,Helix I,,,Extractable,,,,,
+"50.86% Hephaestanite, 47.42% Copper",429,2.6,0%,Helix I,,,Extractable,,,,,
+"37.06% Beryl, 53.48% Quartz",860,1.88,18%,Helix I,1.88,13%,Easy,N,,,,-28%
+"45.56% Agricium, 51.34% Tungsten",1551,1.86,22%,Helix I,,,Extractable,,,,,
+"35.27% Borase, 63.91% Aluminum",2064,1.73,11%,Helix I,1.73,7%,Easy,Y,Great,,,-36%
+"33.94% Beryl, 60.57% Aluminum",2299,1.47,23%,Helix I,1.47,16%,Easy,Y,Great,,,-30%
+"30.36% Beryl, 36.05% Titanium, 32.69% Hephaestanite",2797,2.98,30%,Helix I,2.98,21%,Easy,Y,,,,-30%
+"27.19% Taranite, 62.55% Corundum",3607,2.81,28%,Helix I,2.81,20%,Easy,Y,Good,,,-29%
+"41.46% Beryl, 47.48% Copper",7908,2,21%,Helix I,2,14%,Easy,Y,Great,,,-33%
+"53.50% Beryl, 45.65% Corundum",8277,2.38,48%,Helix I,2.38,33%,Impossible -> Medium,Y,Great,,,-31%
+"42.88% Agricium, 43.47% Quartz",8921,2.03,17%,Helix I,2.03,12%,Easy,Y,Great,,,-29%
+"61.99% Corundum, 30.38% Hephaestanite",11974,1.88,6%,Helix I,1.88,4%,Medium,Y,Good,,,-33%
+"57.43% Agricium, 35.50% Tungsten",39442,2.24,26%,Helix I,2.24,19%,Impossible,N,,,,-27%
+"33.64% Corundum, 34.56% Hephaestanite",146,1.91,4%,Hofstede-S1,,,Extractable,,,,,
+"40.61% Titanium, 49.99% Hephaestanite",229,2.29,4%,Hofstede-S1,,,Extractable,,,,,
+"36.07% Bexalite, 62.50% Aluminum",531,2.65,22%,Hofstede-S1,,,Extractable,,,,,
+"41.13%, Agricium, 34.02% Titanium",686,1.71,33%,Hofstede-S1,,,Extractable,,,,,
+"41.21% Borase, 35.22% Quartz",701,2.18,11%,Hofstede-S1,,,Extractable,,,,,
+"45.80% Beryl, 31.13% Iron",715,2.07,32%,Hofstede-S1,,,Extractable,,,,,
+"38.04% Beryl, 41.50% Quartz",814,1.86,21%,Hofstede-S1,2.04,14%,Easy,N,,,10%,-33%
+"43.53% Hephaestanite, 37.67% Aluminum",1031,2.05,0%,Hofstede-S1,2.26,0%,Easy,Y,Good,,10%,
+68.14% Iron,1298,0.36,0%,Hofstede-S1,,,Extractable,,,,,
+"30.24% Beryl, 38.40% Corundum",2078,1.57,35%,Hofstede-S1,1.73,24%,Easy,Y,Good,,10%,-31%
+"34.23% Laranite, 60.01% Titanium",2521,1.69,31%,Hofstede-S1,1.86,22%,Easy,Y,Great,,10%,-29%
+"33.46% Beryl, 52.45% Titanium",2978,1.45,38%,Hofstede-S1,1.6,26%,Easy,Y,Good,,10%,-32%
+"41.11% Corundum, 44.56% Hephaestanite",3025,2.31,4%,Hofstede-S1,2.57,3%,Easy,Y,Good,,11%,-25%
+"39.58% Beryl, 43.12% Corundum",4312,1.92,41%,Hofstede-S1,2.11,28%,Easy,N,,,10%,-32%
+"40.07% Agricium, 46.86% Iron",6161,1.95,21%,Hofstede-S1,2.15,15%,Medium -> Easy,N,,,10%,-29%
+"29.51% Quantainium, 68.74% Corundum",7518,4.13,50%,Hofstede-S1,4.55,35%,Impossible,Y,Not Good,,10%,-30%
+"47.51% Hephaestanite, 51.58% Tungsten",7597,2.2,0%,Hofstede-S1,2.42,,Medium,Y,Great,,10%,
+"31.44% Borase, 68.55% Corundum",7634,1.95,21%,Hofstede-S1,2.15,15%,Challenging -> Medium,N,,,10%,-29%
+"36.48% Corundum, 59.25% Hephaestanite",8170,2.85,4%,Hofstede-S1,3.14,2%,Medium,N,,,10%,-50%
+"31.53% Laranite, 55.85% Copper",8495,1.9,12%,Hofstede-S1,2.09,8%,Challenging -> Hard,Y,Not Good,,10%,-33%
+"50.01% Agricium, 36.97% Iron",10710,2.23,25%,Hofstede-S1,2.46,18%,Impossible,N,,,10%,-28%
+"34.06% Borase, 57.19% Titanium",11295,1.69,21%,Hofstede-S1,,,Impossible,N,,,,
+"38.01% Agricium, 55.08% Titanium",14792,1.61,33%,Hofstede-S1,1.77,23%,Impossible,N,,,10%,-30%
+"39.37% Beryl, 55.15% Titanium",17065,1.66,41%,Hofstede-S1,,,Impossible,N,,,,
+"53.13% Titanium, 40.64% Hephaestanite",17755,1.94,5%,Hofstede-S1,,,Impossible,N,,,,
+"54.59% Laranite, 35.61% Titanium",18113,2.46,38%,Hofstede-S1,2.71,26%,Impossible,N,,,10%,-32%
+"36.66% Laranite, 53.66% Aluminum",26744,1.79,19%,Hofstede-S1,1.97,13%,Impossible,N,,,10%,-32%
+"46.82% Beryl, 46.50% Tungsten",31343,1.9,30%,Hofstede-S1,,,Impossible,N,,,,
+"31.11% Gold, 56.18% Iron",34623,2.47,17%,Hofstede-S1,,,Impossible,N,,,,
+"42.10% Agricium, 44.46% Tungsten",40806,1.75,22%,Hofstede-S1,1.92,15%,Impossible,N,,,10%,-32%
+"29.87% Bexalite, 69.94% Tungsten",58436,2.26,19%,Hofstede-S1,2.51,13%,Impossible,N,,,11%,-32%
+"40.30% Beryl, 44.40% Copper",805,1.95,21%,Impact I,,,Extractable,,,,,
+"54.90% Beryl, 38.87% Copper",832,2.4,27%,Impact I,,,Extractable,,,,,
+"41.42% Beryl, 47.33% Titanium",979,1.72,42%,Impact I,,,Extractable,,,,,
+"50.09% Hephaestanite, 40.01 Tungsten",2050,2.3,0%,Impact I,,,Extractable,,,,,
+"33.20% Beryl, 30.66% Agricium, 32.66% Iron",2262,,,Impact I,2.71,43%,Easy,Y,Not Good,,,
+"41.65% Agricium, 54.81% Tungsten",2833,1.73,21%,Impact I,,,Extractable,,,,,
+"48.80% Beryl, 49.80% Iron",3291,2.25,31%,Impact I,2.03,34%,Easy,Y,Good,,-10%,10%
+"39.83% Beryl, 36.31% Copper",7439,1.89,23%,Impact I,1.7,25%,Hard -> Challenging,Y,Not Good,,-10%,9%
+"20.07% Taranite, 61.07% Quartz",7790,2.27,9%,Impact I,2.04,10%,Medium,Y,Not Good,,-10%,11%
+"35.81% Hephaestanite, 38.70% Copper",8606,1.99,0%,Impact I,1.79,0%,Medium,N,,,-10%,
+"44.88% Beryl, 42.09% Tungsten",8788,1.84,30%,Impact I,1.65,33%,Impossible,N,,,-10%,10%
+"31.99% Borase, 43.46% Iron",9304,1.86,11%,Impact I,1.67,12%,Impossible,N,,,-10%,9%
+"62.19% Corundum, 36.80% Hephaestanite",10041,2.14,6%,Impact I,1.92,6%,Impossible,N,,,-10%,0%
+"30.89% Laranite, 46.56% Copper",10275,1.83,13%,Impact I,1.65,15%,Impossible,N,,,-10%,15%
+"43.74% Laranite, 51.98% Titanium",12487,2.06,35%,Impact I,1.85,38%,Impossible,N,,,-10%,9%
+"25.31% Quantainium, 67.13% Corundum",37877,3.69,46%,Impact I,3.32,50%,Impossible,N,,,-10%,9%
+"38.72% Beryl, 45.67% Titanium",1253,1.63,40%,Klein-S1,2.21,22%,Easy,Y,Great,,36%,-45%
+"33.50% Hephaestanite, 42.26% Iron",2921,1.91,0%,Klein-S1,2.59,0%,Easy,Y,Great,,36%,
+"54.31% Corundum, 34.50% Hephaestanite",3705,2.01,5%,Klein-S1,2.71,3%,Easy,Y,Good,,35%,-40%
+"26.52% Bexalite, 59.30% Copper",3815,2.4,13%,Klein-S1,3.24,7%,Easy,Y,Not Good,,35%,-46%
+"43.82% Beryl, 21.57% Gold, 31.69% Corundum",4223,3.62,54%,Klein-S1,4.88,29%,Medium -> Easy,Y,Good,,35%,-46%
+"32.77% Hephaestanite, 56.50% Iron",4809,1.95,0%,Klein-S1,2.63,0%,Easy,Y,Good,,35%,
+"34.86% Borase, 56.13% Iron",4890,2.03,11%,Klein-S1,2.74,6%,Easy,Y,Good,,35%,-45%
+"41.71% Courundum, 37.14% Hephaestanite",7446,2.05,4%,Klein-S1,2.78,2%,Easy,N,,,36%,-50%
+"48.54% Hephaestanite, 34.21% Tungsten",7504,2.24,0%,Klein-S1,3.02,0%,Easy,Y,Great,,35%,
+"35.22% Beryl, 56.01% Tungsten",8286,1.51,24%,Klein-S1,2.05,13%,Medium,Y,Not Good,,36%,-46%
+"33.32% Agricium, 58.94% Titanium",9828,1.45,31%,Klein-S1,1.96,17%,Impossible -> Challenging,N,,,35%,-45%
+"56.33% Beryl, 39.26% Aluminum",11377,2.21,35%,Klein-S1,2.98,19%,Impossible,N,,,35%,-46%
+"42.76% Beryl, 41.58% Aluminum",2897,1.77,29%,Lancet MH1,1.59,29%,Easy,Y,Not Good,,-10%,
+"37.41% Corundum, 41.43% Hephaestanite",3172,2.2,4%,Lancet MH1,1.98,4%,Easy,Y,Good,,-10%,
+"37.46% Gold, 50.66% Titanium",3888,2.5,32%,Lancet MH1,2.25,32%,Easy,Y,Not Good,,-10%,
+"31.51% Agricium, 30.17% Tungsten",4215,1.38,20%,Lancet MH1,1.25,20%,Easy,Y,,,-9%,
+"20.51% Taranite, 55.33% Aluminum",4718,1.97,13%,Lancet MH1,1.77,13%,Easy,Y,Not Good,,-10%,
+"32.14% Hephaestanite, 46.12% Tungsten",7210,1.61,0%,Lancet MH1,1.45,0%,Easy,Y,Good,,-10%,
+63.98% Iron,9530,0.34,0%,Lancet MH1,0.31,0%,Medium,Y,Great,,-9%,
+"35.48% Beryl, 44.44% Aluminum",10783,1.52,26%,Lancet MH1,1.37,26%,Impossible,N,,,-10%,
+"59.18% Beryl, 33.52% Copper",11524,2.5,30%,Lancet MH1,2.25,30%,Impossible,N,,,-10%,
+"40.26% Beryl, 39.04% Iron",11778,1.92,29%,Lancet MH1,1.73,29%,Impossible,N,,,-10%,
+"36.47% Agricium, 42.36% Tungsten",14920,1.56,20%,Lancet MH1,1.4,20%,Impossible,N,,,-10%,
+"29.37% Gold, 68.63% Corundum",15788,2.43,30%,Lancet MH1,2.19,30%,Impossible,N,,,-10%,
+69.65% Tungsten,28887,0,0%,Lancet MH1,0,0%,Impossible,N,,,,
+"31.12% Bexalite, 67.44% Tungsten",56082,2.35,20%,Lancet MH1,2.12,20%,Impossible,N,,,-10%,
